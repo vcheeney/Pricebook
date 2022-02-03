@@ -1,0 +1,30 @@
+{
+  "info": [
+    {
+      "distance": 4.586630400000001,
+      "id": 3739,
+      "displayName": "Victoriaville Store",
+      "intersection": "Route 116 Et Boul. Jutras",
+      "sellPrice": 2.8,
+      "availableToSellQty": 273,
+      "availabilityStatus": "AVAILABLE"
+    },
+    {
+      "distance": 48.10329216,
+      "id": 3023,
+      "displayName": "Drummondville Store",
+      "sellPrice": 2.8,
+      "availableToSellQty": 297,
+      "availabilityStatus": "AVAILABLE"
+    },
+    {
+      "distance": 50.356373760000004,
+      "id": 5832,
+      "displayName": "Thetford Mines Store",
+      "intersection": "Boul. Frontenac Et Rue 9",
+      "sellPrice": 2.8,
+      "availableToSellQty": 326,
+      "availabilityStatus": "AVAILABLE"
+    }
+  ]
+}

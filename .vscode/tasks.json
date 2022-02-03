@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "dev",
+      "problemMatcher": [],
+      "label": "npm: dev",
+      "detail": "next dev"
+    },
+    {
+      "type": "npm",
+      "script": "run:db",
+      "problemMatcher": [],
+      "label": "npm: run:db",
+      "detail": "docker-compose up"
+    }
+  ]
+}

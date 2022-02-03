@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  mongodb:
+    image: mongo
+    container_name: pricebook-mongodb
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: $MONGO_INITDB_ROOT_USERNAME
+      MONGO_INITDB_ROOT_PASSWORD: $MONGO_INITDB_ROOT_PASSWORD
+      MONGO_INITDB_DATABASE: $MONGODB_DB
+    ports:
+      - 27017:27017
+    volumes:
+      - ./.mongodb/init-mongo.sh:/docker-entrypoint-initdb.d/init-mongo.sh
+      - ./.mongodb/listings:/listings
+    restart: unless-stopped

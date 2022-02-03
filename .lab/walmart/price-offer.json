@@ -1,0 +1,34 @@
+{
+  "skus": { "6000190025746": ["6000190025746"] },
+  "offers": {
+    "6000190025746": {
+      "gmAvailability": "OutOfStock",
+      "priceCompUomCd": "KG",
+      "limitedQuantity": true,
+      "priceCompQty": 1,
+      "save": false,
+      "autoSave": false,
+      "offerRank": 1,
+      "pricePerUnit": 2.79,
+      "offerType": "1P",
+      "offerSchedulable": true,
+      "sellerId": "0",
+      "clearance": false,
+      "availableQuantity": 0,
+      "priceScheduled": false,
+      "currentPrice": 1.83,
+      "reduced": false,
+      "preOrderFlag": false,
+      "hidePrice": false,
+      "taxCode": "2038305",
+      "sellerInfo": { "en": "Walmart", "fr": "Walmart" },
+      "badges": [],
+      "rollBack": false,
+      "minAdvPrice": 0,
+      "offerId": "6000190025746",
+      "groceryAvailability": "Available"
+    }
+  },
+  "priceZone": { "6000190025745": "2024" },
+  "sellerDetails": {}
+}

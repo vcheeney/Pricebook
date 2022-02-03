@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "downlevelIteration": true,
+    "lib": ["ES2015", "DOM"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "baseUrl": "..",
+    "sourceMap": true,
+    "outDir": ".."
+  },
+  "exclude": ["**/*.test.ts"]
+}
