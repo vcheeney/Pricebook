@@ -147,3 +147,5 @@ I archived this project in January 2021. The project used to be hosted on Vercel
 Rather than delete the whole thing, I downloaded most of the content the tool had produced until then and saved it as seed data for a local MongoDB database runnable as a Docker container. That way, anyone can [clone the project](#installation-steps) and launch the app locally to get a feel for what this project was all about.
 
 As mentioned earlier, you can read the full story of this project [here](./docs/STORY.md).
+
+ #### 🔗  Check out my other [**projects**](https://github.com/vcheeney) on my GitHub profile <!-- omit in toc -->
