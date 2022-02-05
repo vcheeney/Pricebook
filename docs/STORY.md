@@ -1,6 +1,6 @@
 ## Table of contents <!-- omit in toc -->
 
-- [Motivation](#motivation)
+- [🎯 Motivation](#-motivation)
   - [🕷 Web scrapping](#-web-scrapping)
   - [🧼 Clean architecture](#-clean-architecture)
   - [🎨 Basics of decent UX design](#-basics-of-decent-ux-design)
@@ -30,7 +30,7 @@
     - [Be more specific (reduce the scope)](#be-more-specific-reduce-the-scope)
     - [Change hosting setup](#change-hosting-setup)
 
-## Motivation
+## 🎯 Motivation
 
 ### 🕷 Web scrapping
 
