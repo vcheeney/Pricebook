@@ -1,6 +1,6 @@
 ![Homepage](docs/screenshots/preview.png)
 
-# 🛒 Pricebook <a href="#-project-status"><img src="https://img.shields.io/badge/Status-Archived-lightgrey?style=for-the-badge" align="right"></a>
+# 🛒 Pricebook <a href="#-project-status"><img src="https://img.shields.io/badge/Status-Archived_(Jan_2021)-lightgrey?style=for-the-badge" align="right"></a>
 
 A grocery price tracking tool that helps users find the best prices in their local stores and detect patterns so they can recognize when a sale is truly a good deal.
 
@@ -140,7 +140,7 @@ $ npm run test
 
 ## 🚦 Project Status
 
-<img src="https://img.shields.io/badge/-Archived-lightgrey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Archived_(Jan_2021)-lightgrey?style=for-the-badge"/>
 
 I archived this project in January 2021. The project used to be hosted on Vercel and MongoDB Atlas, but I shut it down as I lost interest in the problem the product was trying to solve.
 
